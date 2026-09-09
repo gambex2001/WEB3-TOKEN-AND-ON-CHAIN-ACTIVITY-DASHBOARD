@@ -36,6 +36,10 @@ What was the highest and lowest token price?
 •	Wallet activity remained relatively strong throughout the year, although active wallets fluctuated from month to month. 
 •	Token prices experienced noticeable variation during the year, reflecting changes in the value of W3X over the period analyzed.
 
+## Dashboard
+<img width="1413" height="704" alt="Screenshot 2026-09-09 164344" src="https://github.com/user-attachments/assets/48a406ac-7162-4608-ba41-eac1eb5f63ec" />
+
+
 ## Procedure
 •	Collected the datasets. 
 •	Cleaned and organized the data. 
