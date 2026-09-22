@@ -75,5 +75,9 @@ What was the highest and lowest token price?
 ## Conclusion
 The analysis revealed key trends in transaction activity, wallet behavior, gas fees, liquidity performance, and token prices. The interactive Excel dashboard provides a clear view of these insights and allows users to explore the data using slicers
 
+## Contacts
+📧 [Email](mailto:gambarizulikifli@gmail.com)
+💬 [Chat on Whatsapp](https://wa.me/2347065804203)
+
 
 
